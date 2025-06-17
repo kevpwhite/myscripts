@@ -15,22 +15,9 @@ Each script has its own folder with a dedicated README and usage instructions.
 
 ---
 
-## 🔧 Requirements
-
-Most scripts are written for Bash and expect a Linux environment. Specific tools used include:
-
-- `ffmpeg`, `ffprobe`
-- `zfs`, `smartctl`, `rsync`
-- `docker`, `docker-compose`
-- `nmap`, `ufw`, `mount`
-
-Each folder will list its own dependencies and setup steps.
-
----
-
 ## 🧠 Why I Built This
 
-This library is part of my evolving home infrastructure and devops environment. I use these scripts across:
+This library is part of my evolving home infrastructure and devops environment. 
 
 ---
 
