@@ -43,8 +43,8 @@ sudo apt install ffmpeg
 ### 1. Clone or download this repository
 
 ```bash
-git clone https://github.com/yourusername/remux-scripts.git
-cd remux-scripts
+git clone https://github.com/kevpwhite/myscripts.git
+cd media-remux
 ```
 
 > Or simply download `remux-mkv.sh` directly if not using Git.
@@ -62,7 +62,7 @@ SOURCE_DIR="/path/to/your/mkv/files"
 Example:
 
 ```bash
-SOURCE_DIR="/mnt/surfnlifepool/entertainment/movies"
+SOURCE_DIR="/mnt/entertainment/movies"
 ```
 
 ---
